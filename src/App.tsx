@@ -58,7 +58,7 @@ export default function App() {
       description: "Convert browsers into buyers with AI-powered listening stations.",
       howItWorks: "Customers discover music through intelligent recommendations, with seamless integration between digital and physical inventory.",
       impact: "• 45% conversion rate from listening to purchase\n• 60% increase in music discovery\n• 3x longer store visits",
-      imageUrl: "https://images.unsplash.com/photo-1483412919093-03a1c6728b4c?auto=format&fit=crop&w=1200&q=80"
+      imageUrl: "https://images.unsplash.com/photo-1605648916361-9bc12ad6a569"
     }
   ];
 
